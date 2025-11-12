@@ -1,9 +1,9 @@
 # 36ribs
 Here you can find everything you need to make your own 36ribs keyboard. It's my first project, so it's simple and it works. It's version 1.0.
 
-![screenshot](PHOTOS/photo-top1.jpg)
-![screenshot](PHOTOS/photo-top2.jpg)
-![screenshot](PHOTOS/photo-back.jpg)
+![screenshot](photos/photo-top1.jpg)
+![screenshot](photos/photo-top2.jpg)
+![screenshot](photos/photo-back.jpg)
 
 
 With that layout you will need 36 keycaps and switches, 34x 1u keycaps and for spacebars 1.5u keycaps.
