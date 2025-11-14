@@ -11,7 +11,8 @@ With that layout you will need 36 keycaps and switches, 34x 1u keycaps and for s
 BOM for pcb
 1. 1x pro micro rp2040 controller
 2. 36x 1n4148 or 1n4148w diodes, for better looks take through hole diodes
-3. Optional. 36x hotswap sockets, pcb have both, solder and hotswap
+3. 1x B3U-1000P button for reset
+4. Optional. 36x hotswap sockets, pcb have both, solder and hotswap
 
 BOM for case
 1. 16x m2 4x3.2 inserts
