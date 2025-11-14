@@ -6,7 +6,7 @@ Here you can find everything you need to make your own 36ribs keyboard. It's my 
 ![screenshot](photos/photo-back.jpg)
 
 
-With that layout you will need 36 keycaps and switches, 34x 1u keycaps and for spacebars 1.5u keycaps.
+With that layout you will need 36x keycaps and switches, 34x 1u keycaps and for spacebars 1.5u keycaps.
 
 BOM for pcb
 1. 1x pro micro rp2040 controller
