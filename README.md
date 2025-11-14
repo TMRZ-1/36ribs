@@ -23,3 +23,5 @@ BOM for acrylic cover
 2. 8x m2 10mm standoffs
 3. 16x m2 5mm screws
 
+![screenshot](photos/36ribs diode.png)
+![screenshot](photos/36ribs inserts.png)
