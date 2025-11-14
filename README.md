@@ -1,5 +1,7 @@
 # 36ribs
-Here you can find everything you need to make your own 36ribs keyboard. It's my first project, so it's simple and it works. It's version 1.0.
+
+After years in the hobby, one day I decided it was time to design something myself. And that's how 36ribs came to be.
+Here you will find everything you need to make your own 36ribs keyboard. It's my first project, so it's not too complicated.
 
 ![screenshot](photos/photo-top1.jpg)
 ![screenshot](photos/photo-top2.jpg)
