@@ -34,7 +34,15 @@ Inserts should be embedded in the marked places.
 
 
 
-36ribs wildlife:
+# 36ribs wildlife:
 
 ![screenshot](photos/wild1.jpg)
 ![screenshot](photos/wild2.jpg)
+
+
+
+
+
+
+![screenshot](photos/wild3.jpg)
+![screenshot](photos/wild4.jpg)
