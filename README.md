@@ -31,3 +31,7 @@ The diodes should be oriented as shown below.
 Inserts should be embedded in the marked places.
 
 ![screenshot](photos/36ribs-inserts.png)
+
+36ribs wildlife:
+![screenshot](photos/wild1.jpg)
+![screenshot](photos/wild2.jpg)
