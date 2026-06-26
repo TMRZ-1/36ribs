@@ -10,6 +10,7 @@ Case with screws:
 
 Case with magnets with updated pcb: 
 ![screenshot](photos/o1.jpg) ![screenshot](photos/o4.jpg) ![screenshot](photos/o6.jpg) ![screenshot](photos/o7.jpg)
+![screenshot](photos/w1.jpg) ![screenshot](photos/w2.jpg)
 
 
 
