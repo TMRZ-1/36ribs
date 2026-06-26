@@ -2,6 +2,7 @@
 
 Here you will find everything you need to make your own 36ribs keyboard. It's my first project, so it's not too complicated.
 
+Case with screws:
 ![screenshot](photos/photo-top1.jpg)![screenshot](photos/photo-top2.jpg)![screenshot](photos/photo-back.jpg)
 
 
@@ -13,7 +14,8 @@ With that layout you will need 36x keycaps(34x 1u keycaps and for spacebars 2x 1
 1. 1x pro micro rp2040 controller
 2. 36x 1n4148 or 1n4148w diodes, for better looks take through hole diodes
 3. 1x B3U-1000P button for reset
-4. Optional. 36x hotswap sockets, pcb have both, solder and hotswap
+4. 1x SK6812 MINI-E RGB
+5. Optional. 36x hotswap sockets, pcb have both, solder and hotswap
 
 # BOM for acrylic cover
 1. acrylic cover, I've made 3mm for my build
