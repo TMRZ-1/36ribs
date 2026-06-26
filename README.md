@@ -1,10 +1,15 @@
 # 36ribs
 
-Here you will find everything you need to make your own 36ribs keyboard. It's my first project, so it's not too complicated.
+Here you will find everything you need to make your own 36ribs keyboard. It's my first project, so it's not too complicated. 
+
+# UPDATE
+Added one led under controller to light it a bit in the middle.
 
 Case with screws:
-![screenshot](photos/photo-top1.jpg)![screenshot](photos/photo-top2.jpg)![screenshot](photos/photo-back.jpg)
+![screenshot](photos/photo-top1.jpg) ![screenshot](photos/photo-top2.jpg) ![screenshot](photos/photo-back.jpg)
 
+Case with magnets with updated pcb: 
+![screenshot](photos/o1.jpg) ![screenshot](photos/o4.jpg) ![screenshot](photos/o6.jpg) ![screenshot](photos/o7.jpg)
 
 
 
@@ -35,6 +40,10 @@ With that layout you will need 36x keycaps(34x 1u keycaps and for spacebars 2x 1
 Diodes should be oriented as shown below.
 
 ![screenshot](photos/36ribs-diode.png)
+
+The notched leg of the SK6812 MINI-E RGB LED should be in the marked location
+
+![screenshot](photos/led.jpg)
 
 Inserts for v1 case with screws should be embedded in the marked places.
 
