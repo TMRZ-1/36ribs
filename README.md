@@ -3,7 +3,7 @@
 Here you will find everything you need to make your own 36ribs keyboard. It's my first project, so it's not too complicated. 
 
 # UPDATE
-Added one led under controller to light it a bit in the middle.
+Added one led under controller to light it a bit in the middle and updated vial software. Added two new cases, with magnets, normal one just without screws in case and second one with integrated plate that need only magnets. From these three my fav is one that have top mounted plate and magnets in case.
 
 Case with screws:
 ![screenshot](photos/photo-top1.jpg) ![screenshot](photos/photo-top2.jpg) ![screenshot](photos/photo-back.jpg)
@@ -35,6 +35,9 @@ With that layout you will need 36x keycaps(34x 1u keycaps and for spacebars 2x 1
 1. 8x m2 4x3.2 inserts
 2. 8x m2 5mm screws
 3. 16x 3x3 cylinder magnets (I used n42)
+
+# BOM for case with magnets and integrated plate
+1. 16x 3x3 cylinder magnets (I used n42)
 
 
 Diodes should be oriented as shown below.
